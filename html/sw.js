@@ -2,7 +2,6 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
   './trab3pgmain.html',
-  './',
   './manifest.json'
 ];
 
